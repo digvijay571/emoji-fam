@@ -186,7 +186,7 @@ p.site-description {
   border: 2px solid #074ba0;
 }
 footer {
-  background: #000;
+ background: linear-gradient( 45deg,#405de6,#5851db,#833ab4,#c13584,#e1306c,#fd1d1d);
   padding: 10px 0;
 }
 h1.entry-title {
