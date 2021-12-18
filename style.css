@@ -1,6 +1,5 @@
 header {
   box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.21);
-  background: linear-gradient( 45deg,#405de6,#5851db,#833ab4,#c13584,#e1306c,#fd1d1d);
 }
 .emojdetail {
   border: 2px solid #dfe9f7;
@@ -82,7 +81,8 @@ section {
   display: block;
 }
 nav {
-  background: rgb(178,56,79);
+  background: linear-gradient( 
+45deg,#405de6,#5851db,#833ab4,#c13584,#e1306c,#fd1d1d);
 }
 nav a {
   display: inline-block;
@@ -94,7 +94,8 @@ nav a:hover {
   background: #033c82;
 }
 .site-branding-text {
-  background: rgb(178,56,79);
+  background: linear-gradient( 
+45deg,#405de6,#5851db,#833ab4,#c13584,#e1306c,#fd1d1d);
   padding: 10px;
   color: #fff;
   text-align: center;
